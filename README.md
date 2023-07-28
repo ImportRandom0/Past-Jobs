@@ -1,6 +1,6 @@
 # Past-Jobs
 
-ROBLOX FLARE:
-owners roblox = PlayerXET
+ROBLOX FLARE: \n
+owners roblox = PlayerXET \n 
 owners discord = playerxet
 
