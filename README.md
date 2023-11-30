@@ -1,8 +1,8 @@
 # Past-Jobs
 
 - ROBLOX FLARE:
-- owners roblox = PlayerXET
-- owners discord = playerxet
+- owners roblox = ImportRandom0
+- owners discord = w_ns
 
 - Here are some examples of things I worked on in this game
 - Custom drag and drop Inventory:
@@ -37,7 +37,7 @@
 -
 - ROBLOX BRICKRP
 - Owners roblox - PlanetRock / ImportRandom0
-- owners discord - werwewdapro#0888 / what?
+- owners discord - werwewdapro#0888 / w_ns
 -
 - Dark RP game based on garrys mod
 -
@@ -99,11 +99,21 @@
 - ![image](https://github.com/ImportRandom0/Past-Jobs/assets/119878367/423b73cf-6b83-4289-bf91-02fcc14db26a)
 - ![image](https://github.com/ImportRandom0/Past-Jobs/assets/119878367/857212b9-3850-4e28-80b8-98382b8310fb)
 - ![image](https://github.com/ImportRandom0/Past-Jobs/assets/119878367/bdc6248b-f590-470a-9e56-45c3f1378c60)
--
--
 - Building System
 - https://www.youtube.com/watch?v=-ItieZf6NFQ
 -
+- ROBLOX GLOBE GAME
+- Owners roblox - ImportRandom0
+- owners discord - w_ns
+-
+- Country guessing game based on globle
+- Published 11/24/2023
+- Game link: https://www.roblox.com/games/15443907277/Globe-Game
+- 
+- Gameplay: https://github.com/ImportRandom0/Past-Jobs/assets/119878367/6627cf9f-6c44-4efa-80cf-abdc38c785ca
+- 
+- Youtube for more: https://www.youtube.com/channel/UClu5sNCXoW4IBPyaJ-HB9Dw
+- 
 - 
 - Thank you for reading! feel free to contact me at "w_ns" on discord
 -
