@@ -113,6 +113,10 @@
 - Gameplay: https://github.com/ImportRandom0/Past-Jobs/assets/119878367/6627cf9f-6c44-4efa-80cf-abdc38c785ca
 - 
 - Youtube for more: https://www.youtube.com/channel/UClu5sNCXoW4IBPyaJ-HB9Dw
+
+- Roblox Vanity = 
+- debugging work
+- discord: https://discord.gg/vanityfps
 - 
 - 
 - Thank you for reading! feel free to contact me at "w_ns" on discord
