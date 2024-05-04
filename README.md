@@ -125,16 +125,12 @@
 - Thank you for reading! feel free to contact me at "w_ns" on discord
 -
 -More Information:
-- I began my coding journey four years ago, starting with simple Python programs aimed at boosting productivity. As my skills progressed, I delved into exploring cheats in both Lua and Python. However, my interests later shifted towards the field of encryption, and I became quite fascinated by it. This led me to create my own LuaU obfuscator, LuaOP. Eventually, I decided to venture into game development, where I worked on several small games.
+I began my coding journey six years ago, starting with simple Python programs aimed at boosting productivity. As my skills progressed, I delved into exploring cheats in both Lua and Python. However, my interests later shifted towards the field of encryption, and I became quite fascinated by it. This led me to create my own LuaU obfuscator, LuaOP. Eventually, I decided to venture into game development, where I worked on several small games.
+Driven by my passion for AI and its potential to enhance productivity, I transitioned into creating several AI-based programs tailored to excel and various coding tasks. These programs aimed to streamline processes and improve efficiency in both data manipulation and general coding tasks.
 
-- One significant opportunity came my way when I joined the development team of a larger survival game called Flare. The game gained popularity and became a big success. Unfortunately, it was later subjected to a copyright strike, which I believe was initiated by another game developed in Rust. Nevertheless, I didn't let this setback discourage me.
+Despite exploring various fields, I found myself continuously drawn to the Roblox development ecosystem. Recently, I have embarked on new game development project’s and have been working on many survival games. I'm excited about the prospects of future collaboration and the opportunities it presents.
 
-- Driven by my passion for AI and its potential to enhance productivity, I transitioned into creating several AI-based programs tailored to excel and various coding tasks. These programs aimed to streamline processes and improve efficiency in both data manipulation and general coding tasks.
-
-- Despite exploring various fields, I found myself continuously drawn to the Roblox development ecosystem. Recently, I embarked on a new game development project with a partner named BrickRP. I'm excited about the prospects of this collaboration and the opportunities it presents.
-
-- Thank you for keeping up with my journey! I'm constantly seeking new challenges and ways to leverage my coding skills, and I'm looking forward to what the future holds.
-
+Thank you for keeping up with my journey! I'm constantly seeking new challenges and ways to leverage my coding skills, and I'm looking forward to what the future holds.
 
 
 
